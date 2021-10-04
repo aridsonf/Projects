@@ -1,6 +1,3 @@
-[submodule "conversor-de-temperatura"]
-	path = conversor-de-temperatura
-	url = git@github.com:aridsonf/conversor-de-temperatura.git
 [submodule "super-trunfo"]
 	path = super-trunfo
 	url = git@github.com:aridsonf/super-trunfo.git
