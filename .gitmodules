@@ -7,3 +7,6 @@
 [submodule "super-trunfo"]
 	path = super-trunfo
 	url = git@github.com:aridsonf/super-trunfo.git
+[submodule "jogo-de-adivinha-o"]
+	path = jogo-de-adivinha-o
+	url = git@github.com:aridsonf/jogo-de-adivinha-o.git
