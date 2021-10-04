@@ -13,3 +13,6 @@
 [submodule "tabela-de-classificacao"]
 	path = tabela-de-classificacao
 	url = git@github.com:aridsonf/tabela-de-classificacao.git
+[submodule "conversor-de-temperatura"]
+	path = conversor-de-temperatura
+	url = git@github.com:aridsonf/conversor-de-temperatura.git
