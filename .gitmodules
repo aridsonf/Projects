@@ -13,3 +13,6 @@
 [submodule "conversor-de-moeda"]
 	path = conversor-de-moeda
 	url = git@github.com:aridsonf/conversor-de-moeda.git
+[submodule "calculadora-de-m-dia"]
+	path = calculadora-de-m-dia
+	url = git@github.com:aridsonf/calculadora-de-m-dia.git
