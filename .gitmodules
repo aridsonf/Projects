@@ -10,3 +10,6 @@
 [submodule "jogo-de-adivinha-o"]
 	path = jogo-de-adivinha-o
 	url = git@github.com:aridsonf/jogo-de-adivinha-o.git
+[submodule "conversor-de-moeda"]
+	path = conversor-de-moeda
+	url = git@github.com:aridsonf/conversor-de-moeda.git
