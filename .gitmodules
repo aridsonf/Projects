@@ -10,3 +10,6 @@
 [submodule "calculadora-de-m-dia"]
 	path = calculadora-de-m-dia
 	url = git@github.com:aridsonf/calculadora-de-m-dia.git
+[submodule "tabela-de-classificacao"]
+	path = tabela-de-classificacao
+	url = git@github.com:aridsonf/tabela-de-classificacao.git
