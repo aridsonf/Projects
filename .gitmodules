@@ -19,6 +19,6 @@
 [submodule "crud-laravel"]
 	path = crud-laravel
 	url = git@github.com:aridsonf/crud-laravel.git
-[submodule "delivery-system"]
+[submodule "delivery"]
 	path = delivery
 	url = git@github.com:aridsonf/delivery.git
