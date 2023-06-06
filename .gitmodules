@@ -22,3 +22,9 @@
 [submodule "delivery"]
 	path = delivery
 	url = git@github.com:aridsonf/delivery.git
+[submodule "api-laravel"]
+	path = API
+	url = git@github.com:aridsonf/API.git
+[submodule "delivery-vue"]
+	path = delivery-vue
+	url = git@github.com:aridsonf/deliveryVue.git
