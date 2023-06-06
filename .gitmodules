@@ -18,7 +18,16 @@
 	url = git@github.com:aridsonf/conversor-de-temperatura.git
 [submodule "crud-laravel"]
 	path = crud-laravel
-	url = git@github.com:aridsonf/crud-laravel.git
+	url = https://github.com/aridsonf/crud-laravel
 [submodule "delivery-system"]
 	path = delivery
 	url = git@github.com:aridsonf/delivery.git
+[submodule "delivery"]
+	path = delivery
+	url = https://github.com/aridsonf/delivery
+[submodule "api-laravel"]
+	path = api-laravel
+	url = https://github.com/aridsonf/API
+[submodule "delivery-vue"]
+	path = delivery-vue
+	url = https://github.com/aridsonf/deliveryVue
